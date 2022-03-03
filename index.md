@@ -1,6 +1,6 @@
 <!doctype html>
 
-<html lang="zh-Hant">
+<html>
 
 <head>
   <meta charset="UTF-8" />
