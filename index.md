@@ -1,2 +1,2 @@
-- [SO (Self Ordering)](./so.md)
+- [SO (Self Ordering)](https://ucrsupport.github.io/so.md)
 - CRM (Customer Relationship Management)
