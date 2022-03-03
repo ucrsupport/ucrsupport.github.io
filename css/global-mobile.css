@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap');
+
+body {
+    font-family: 'Noto Sans TC', 'Noto Sans JP', sans-serif !important;
+    font-smooth: always !important;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+}
+
+.hkscs {
+    font-family: 'Noto Sans TC' !important;
+    font-weight: 600 !important;
+}
+
+a:link, a:active, a:visited {
+	color: #0000FF;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #0000FF;
+	background-color: #FFFF00;
+	text-decoration: none;
+}
+
+.align-center {
+	text-align: center !important;
+}
+
+.align-left {
+	text-align: left !important;
+}
+
+.align-right {
+	text-align: right !important;
+}
+
+.align-justify {
+	text-align: justify !important;
+}
+
+body {
+	font-size: 0.8rem;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+h1, .font1 {
+    font-size: 1.8rem;
+}
+
+h2, .font2 {
+    font-size: 1.6rem;
+}
+
+h3, .font3 {
+    font-size: 1.4rem;
+}
+
+h4, .font4 {
+    font-size: 1.2rem;
+}
+
+h5, .font5 {
+    font-size: 1rem;
+}
+
+h6, .font6 {
+    font-size: 0.8rem;
+}
